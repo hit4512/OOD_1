@@ -14,6 +14,7 @@ public:
 int main() {
 	LetDebug* id = new LetDebug;
 	id->printNum();
+	std::cout << "I have made change!!" << std::endl;
 
 	return 0;
 }
